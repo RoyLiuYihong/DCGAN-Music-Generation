@@ -1,0 +1,6 @@
+.DS_Store
+*.pkl
+*.mid
+*.png
+*.pyc
+.vscode
